@@ -138,6 +138,14 @@ Focused on **line following, sensor processing, PID control, motor control, and 
 </div>
 
 <div align="center">
+
+## `05 / CONTRIBUTION FLOW`
+
+<img src="https://raw.githubusercontent.com/dev-ahanaf/dev-ahanaf/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+<div align="center">
 <img src="assets/divider.svg" width="100%" alt=""/>
 </div>
 
