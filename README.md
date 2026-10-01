@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="assets/header.svg" alt="Fayek Ahanaf" width="100%"/>
@@ -66,13 +64,8 @@ Web work lives alongside these: responsive frontends in HTML, CSS, JavaScript, R
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?<img width="480" height="220" alt="card-falconbots" src="https://github.com/user-attachments/assets/0af782f9-b5e4-4b50-bf5e-5c4ab69b734d" /><img width="1000" height="300" alt="telemetry" src="https://github.com/user-attachments/assets/9027e50a-d657-48cb-ac91-aeb5859a7029" />
-<img width="1000" height="340" alt="header" src="https://github.com/user-attachments/assets/f74578c7-1759-43cd-8bad-86c53b8a1209" />
-<img width="1000" height="120" alt="footer" src="https://github.com/user-attachments/assets/b9135e75-5086-4f84-9b50-074668821b2c" />
-<img width="1000" height="48" alt="divider" src="https://github.com/user-attachments/assets/e8d7ab6d-855d-4cf0-a3c6-8365719f6cdf" />
-username=dev-ahanaf&show_icons=true&hide_border=true&bg_color=E9ECE4&title_color=111418&icon_color=E5382B&text_color=111418&rank_icon=github" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-ahanaf&show_icons=true&hide_border=true&bg_color=E9ECE4&title_color=111418&icon_color=E5382B&text_color=111418&rank_icon=github" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahanaf&layout=compact&hide_border=true&bg_color=E9ECE4&title_color=111418&text_color=111418" alt="Top languages"/>
-<img width="480" height="220" alt="card-circuitmind" src="https://github.com/user-attachments/assets/7e43b892-3f24-437d-9e38-e3bb53119e05" />
 
 <br/><br/>
 
